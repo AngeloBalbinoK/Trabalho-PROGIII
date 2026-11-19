@@ -24,3 +24,7 @@ O projeto tem como objetivo aplicar conceitos de Programação Orientada a Objet
 - Java Serialization
 - Git
 - GitHub
+
+##APRESENTAÇÃO
+
+https://canva.link/58xlcrp9mh34hnn
