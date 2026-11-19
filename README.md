@@ -19,7 +19,7 @@ O projeto tem como objetivo aplicar conceitos de Programação Orientada a Objet
 
 ## Tecnologias utilizadas
 
-- Java
+- java version "25.0.4" 2026-07-21 LTS
 - Programação Orientada a Objetos (POO)
 - Java Serialization
 - Git
