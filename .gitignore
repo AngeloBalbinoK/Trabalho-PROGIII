@@ -28,3 +28,26 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Configurações de IDE
+.idea/
+*.iml
+.vscode/
+
+# Arquivos compilados Java
+*.class
+out/
+bin/
+target/
+
+# Arquivos de projeto Eclipse
+.classpath
+.project
+.settings/
+
+# Dados gerados pelo sistema
+chamados.dat
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
